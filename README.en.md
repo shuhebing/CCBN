@@ -1,4 +1,4 @@
-# CCB
+# CCBN
 
 #### Description
 A highly efficient and informative method to identify ion transport networks in fast ion conductors
